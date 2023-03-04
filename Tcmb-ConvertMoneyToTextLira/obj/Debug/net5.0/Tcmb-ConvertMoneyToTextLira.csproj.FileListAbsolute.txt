@@ -1,0 +1,16 @@
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.csproj.AssemblyReference.cache
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.AssemblyInfoInputs.cache
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.AssemblyInfo.cs
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.csproj.CoreCompileInputs.cache
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\bin\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.exe
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\bin\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.deps.json
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\bin\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.runtimeconfig.json
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\bin\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.runtimeconfig.dev.json
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\bin\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.dll
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\bin\Debug\net5.0\ref\Tcmb-ConvertMoneyToTextLira.dll
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\bin\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.pdb
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.dll
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\ref\Tcmb-ConvertMoneyToTextLira.dll
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.pdb
+C:\Users\guclu\OneDrive\Masaüstü\c# engin\Tcmb-ConvertMoneyToTextLira\Tcmb-ConvertMoneyToTextLira\obj\Debug\net5.0\Tcmb-ConvertMoneyToTextLira.genruntimeconfig.cache
